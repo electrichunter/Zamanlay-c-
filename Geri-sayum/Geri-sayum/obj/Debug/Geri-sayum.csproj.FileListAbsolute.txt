@@ -1,0 +1,10 @@
+C:\Users\ömer\source\repos\Geri-sayum\Geri-sayum\bin\Debug\Geri-sayum.exe.config
+C:\Users\ömer\source\repos\Geri-sayum\Geri-sayum\bin\Debug\Geri-sayum.exe
+C:\Users\ömer\source\repos\Geri-sayum\Geri-sayum\bin\Debug\Geri-sayum.pdb
+C:\Users\ömer\source\repos\Geri-sayum\Geri-sayum\obj\Debug\Geri-sayum.csproj.AssemblyReference.cache
+C:\Users\ömer\source\repos\Geri-sayum\Geri-sayum\obj\Debug\Geri_sayum.Form1.resources
+C:\Users\ömer\source\repos\Geri-sayum\Geri-sayum\obj\Debug\Geri_sayum.Properties.Resources.resources
+C:\Users\ömer\source\repos\Geri-sayum\Geri-sayum\obj\Debug\Geri-sayum.csproj.GenerateResource.cache
+C:\Users\ömer\source\repos\Geri-sayum\Geri-sayum\obj\Debug\Geri-sayum.csproj.CoreCompileInputs.cache
+C:\Users\ömer\source\repos\Geri-sayum\Geri-sayum\obj\Debug\Geri-sayum.exe
+C:\Users\ömer\source\repos\Geri-sayum\Geri-sayum\obj\Debug\Geri-sayum.pdb
